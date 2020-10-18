@@ -4,3 +4,5 @@ com\example\spring\daoImp\ExcelRepoImp.class
 com\example\spring\model\Client.class
 com\example\spring\Application.class
 com\example\spring\controller\FileUpload.class
+com\example\spring\dao\ExcelHistoryRepo.class
+com\example\spring\model\ExcelHistory.class
